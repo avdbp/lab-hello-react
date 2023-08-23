@@ -1,4 +1,3 @@
-// Header.jsx
 import React from 'react';
 import logo from '../images/logo.png';
 import hamburguesa from '../images/hamburguesa.png';
